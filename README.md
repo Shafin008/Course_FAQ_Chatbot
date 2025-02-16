@@ -114,4 +114,4 @@ I used `llava` because in the dataset there are some instructions that were give
 
 ![RAG BASED APP](https://github.com/Shafin008/Course_FAQ_Chatbot/blob/master/images/q2.png)
 
-![RAG BASED APP](https://github.com/Shafin008/Course_FAQ_Chatbot/blob/master/images/q23.png)
+![RAG BASED APP](https://github.com/Shafin008/Course_FAQ_Chatbot/blob/master/images/q3.png)
